@@ -1,0 +1,14 @@
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const ADMIN_LOADED = 'ADMIN_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT = 'LOGOUT';
+export const USER_SUCCESS = 'USER_SUCCESS';
+export const USER_FAIL = 'USER_FAIL';
+export const CLEAR_USER = 'CLEAR_USER';
+export const GET_ALL_DOCTORS = 'GET_ALL_DOCTORS';
+export const GET_ALL_DOCTORS_FAIL = 'GET_ALL_DOCTORS_FAIL';
+export const GET_ALL_TESTS = 'GET_ALL_TESTS';
+export const GET_ALL_TESTS_FAIL = 'GET_ALL_TESTS_FAIL';
